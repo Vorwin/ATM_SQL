@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="clientesATM" Class="ClientesDatosDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ANDRESLAPTOP;Initial Catalog=clientesATM;Integrated Security=True" SettingsObjectName="Cajero.Properties.Settings" SettingsPropertyName="clientesATMConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.inforClientesATM" Member="inforClientesATM">
+    <Type Name="inforClientesATM">
+      <Column Name="codigo" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="usuario" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="contra" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="apellido" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="fechar" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="DPI" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numero" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="correo" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="banco" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="monto" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="cuentaActiva" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

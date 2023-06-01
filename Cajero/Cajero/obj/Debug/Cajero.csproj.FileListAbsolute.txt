@@ -1,0 +1,106 @@
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\obj\Debug\Cajero.csproj.AssemblyReference.cache
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\obj\Debug\Cajero.csproj.SuggestedBindingRedirects.cache
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\obj\Debug\Cajero.Properties.Resources.resources
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\obj\Debug\Cajero.csproj.GenerateResource.cache
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\obj\Debug\Cajero.pdb
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\obj\Debug\Cajero.csproj.CopyComplete
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\obj\Debug\Cajero.CuentaNueva.resources
+C:\Users\eandr\Documentos - copia\Pogra\Progra 3(C#)\Proyectos\Cajero\Cajero\obj\Debug\Cajero.OpcionesCajero.resources
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\bin\Debug\Cajero.exe.config
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\bin\Debug\Cajero.exe
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\bin\Debug\Cajero.pdb
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\bin\Debug\FontAwesome.Sharp.dll
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\obj\Debug\Cajero.csproj.AssemblyReference.cache
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\obj\Debug\Cajero.csproj.SuggestedBindingRedirects.cache
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\obj\Debug\Cajero.CuentaNueva.resources
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\obj\Debug\Cajero.OpcionesCajero.resources
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\obj\Debug\Cajero.Properties.Resources.resources
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\obj\Debug\Cajero.csproj.GenerateResource.cache
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\obj\Debug\Cajero.csproj.CopyComplete
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\obj\Debug\Cajero.exe
+D:\U\Progra\Angelo\Proyectos\Proyecto 3 Programacion III\Cajero16-05-V3\Cajero\Cajero\obj\Debug\Cajero.pdb
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.AssemblyReference.cache
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.SuggestedBindingRedirects.cache
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.pdb
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.CuentaNueva.resources
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.OpcionesCajero.resources
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.Properties.Resources.resources
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.GenerateResource.cache
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\eandr\Escritorio\Cajero18-05-V6\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.CopyComplete
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.AssemblyReference.cache
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.CuentaNueva.resources
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.OpcionesCajero.resources
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.Properties.Resources.resources
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.GenerateResource.cache
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.CopyComplete
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\Angelo\Downloads\Cajero19-05-V1\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.pdb
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.AssemblyReference.cache
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.SuggestedBindingRedirects.cache
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.CuentaNueva.resources
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.OpcionesCajero.resources
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.Properties.Resources.resources
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.GenerateResource.cache
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.csproj.CopyComplete
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\eandr\Downloads\Cajero-VersionFinal\Cajero19-05-V1\Cajero16-05-V6\Cajero\Cajero\obj\Debug\Cajero.pdb
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.csproj.AssemblyReference.cache
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.pdb
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.CuentaNueva.resources
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.OpcionesCajero.resources
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.Properties.Resources.resources
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.csproj.GenerateResource.cache
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Downloads\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.csproj.CopyComplete
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.csproj.AssemblyReference.cache
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.csproj.SuggestedBindingRedirects.cache
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.CuentaNueva.resources
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.mensaje.resources
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.OpcionesCajero.resources
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.Properties.Resources.resources
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.csproj.GenerateResource.cache
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.csproj.CopyComplete
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\eandr\Escritorio\ProyectoFinal_v2\ProyectoFinal\ProyectoFinal\Cajero\Cajero\obj\Debug\Cajero.pdb
